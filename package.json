@@ -1,0 +1,21 @@
+{
+  "name": "serverfaucet",
+  "version": "0.1.0",
+  "description": "Quick bearly not a tool, that lets you send messages from several sources in hope of getting it logged in the command line window",
+  "main": "serverfaucet.js",
+  "scripts": {
+    
+  },
+  "bin": "serverfaucet.js",
+	"engines": {
+		"node": ">=8"
+  },
+  "author": {
+		"name": "Christian Simonsen",
+		"email": "christian@agens.no"
+  },
+  "license": "private",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
